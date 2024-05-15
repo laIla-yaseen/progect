@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&family=Young+Serif&display=swap');
+/*  
+ */
+ /* font-family: "Outfit", sans-serif; */
+ body{
+    background-color: rgb(243, 225, 186);
+    width: 400px;
+    margin: 20px auto;
+ }
+ div{ padding: 10px;
+    margin: 20px auto;
+    width: 500px;
+    background-color: aliceblue;
+ }
+
+h4{ 
+    color: rgb(228, 27, 94);
+}
+ #lo {
+    background-color:rgb(235, 205, 210);
+}
+h2{
+    color: brown;
+    font-family : "Yoerif", serif;
+}
+
+@media only screen and (max-width: 600px) {
+    div { padding:10px;
+        margin: 10px auto;
+        width:150px;
+        background-color: aliceblue;
+     }
+    
+  }
